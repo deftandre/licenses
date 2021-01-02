@@ -4,4 +4,4 @@
 
 ## MIT
 
-MIT License: <https://github.com/deftandre/licenses/blob/main/MIT-LICENSE>
+MIT License: <https://github.com/deftandre/licenses/blob/master/MIT-LICENSE>
